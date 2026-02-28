@@ -1,0 +1,93 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   
+      
+      background: #050d1d; 
+}
+
+.nav-logo{
+    margin-top: 1rem;
+}
+
+.header{
+    margin-top: 2rem;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+
+main{
+    /* border: 1px solid red; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* color: #ffffff; */
+    color: #f3f4f6;
+}
+
+main .container{
+    /* border: 1px solid brown; */
+    width: 100%;
+    padding-left: 3rem;
+}
+img{
+    height: 50px;
+    width: 130px;
+}
+/* .nav-logo-events{
+    font-size: 2rem;
+    font-weight: 200;
+    border: 1px solid red;
+} */
+
+.event-container{
+    width: 50vw;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin-top: 1rem; */
+    /* border: 2px solid red; */
+}
+
+.events-count{
+    /* border: 1px solid red; */
+    margin-top: 1rem;
+    width: 10%;
+    font-size: 1.3rem;
+    font-weight: 500;
+    letter-spacing: 0.4px;
+    font-family: 'Teko';
+}
+
+
+.events li{
+    font-family: 'Poppins';
+    font-size: 0.5rem;
+    list-style: none;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    background: #1a1a1a;
+    /* height: 80%; */
+    border: 1px solid gray;
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+
+.events li h3{
+    font-family: 'Teko';
+    font-size: 3rem;
+}
+.parent-event-container{
+    /* border: 1px solid pink; */
+    display: flex;
+    justify-self: center;
+}
