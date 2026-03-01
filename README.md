@@ -20,3 +20,5 @@ A dynamic web application that fetches and displays upcoming UFC events using ES
 - Handling nested API data
 - Optional chaining for safer access
 - Dynamic list rendering
+
+live link: https://shaikhaaftab2017-lgtm.github.io/UFCEvents/
